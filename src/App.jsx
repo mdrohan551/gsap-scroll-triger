@@ -12,7 +12,7 @@ const App = () => {
 
   useEffect(() => {
     gsap.registerPlugin(ScrollTrigger);
-    audioRef.current = new Audio("/public/audio/water.mp3");
+    audioRef.current = new Audio("/audio/water.mp3");
     audioRef.current.volume = 1;
 
     const timer = setTimeout(() => {
