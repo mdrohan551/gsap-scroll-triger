@@ -49,7 +49,7 @@ const Loaderanim = () => {
     <div className="fixed inset-0 z-[9999] flex items-center justify-center bg-gradient-to-br from-[#47c7a7] via-[#5ed18c] to-[#2dd327]">
       <audio
         ref={audioRef}
-        src="/public/audio/boom.mp3"
+        src="/audio/boom.mp3"
         preload="auto"
       />
 
