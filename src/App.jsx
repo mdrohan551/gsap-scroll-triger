@@ -192,7 +192,7 @@ const App = () => {
           <div className="container mx-auto">
             <Nav />
             <img
-              src="/public/images/leap.png"
+              src="/images/leap.png"
               className="w-[30rem] h-auto absolute z-20 right-0"
               alt="Product"
             />
@@ -218,27 +218,27 @@ const App = () => {
                 ></div>
 
                 <img
-                  src="/public/images/Water-PNG.png"
+                  src="/images/Water-PNG.png"
                   className="w-[40rem] h-auto absolute water-image bottom-20 right-126 z-5 opacity-70 water-image transition-all duration-500 ease-in-out"
                   alt="Product"
                 />
                 <img
-                  src="/public/images/lemonslic.png"
+                  src="/images/lemonslic.png"
                   className="w-[17rem] h-auto lemonslic absolute top-2 right-126 z-10 transition-all duration-500 ease-in-out"
                   alt="Product"
                 />
                 <img
-                  src="/public/images/leapcut.png"
+                  src="/images/leapcut.png"
                   className="w-[17rem] h-auto leapcut absolute z-10 top-60 -left-40 transition-all duration-500 ease-in-out"
                   alt="Product"
                 />
                 <img
-                  src="/public/images/leaf2.png"
+                  src="/images/leaf2.png"
                   className="w-[10rem] h-auto absolute z-10 bottom-60 -right-25 leaf2 -rotate-80 transition-all duration-500 ease-in-out"
                   alt="Product"
                 />
                 <img
-                  src="/public/images/lemon.webp"
+                  src="/images/lemon.webp"
                   className="w-[22rem] h-auto lemon absolute z-21 bottom-10 left-100 transition-all duration-500 ease-in-out"
                   alt="Product"
                 />
@@ -285,13 +285,13 @@ const App = () => {
           <div className="card bg-white rounded-2xl shadow-lg p-10 flex flex-col items-center relative w-[26rem] min-h-[480px] ">
             <img
               className=" w-50 absolute top-5 z-0 left-15"
-              src="/public/images/lemonslic.png"
+              src="/images/lemonslic.png"
               alt=""
             />
             <img
               id=""
               className="w-full mb-6 mt-16 z-1 -rotate-40 fanta  transition-all duration-500 ease-in-out"
-              src="/public/images/fanta.webp"
+              src="/images/fanta.webp"
               alt=""
             />
             <h1 className="text-4xl font-bold mb-6">FANTA</h1>
@@ -312,13 +312,13 @@ const App = () => {
           <div className="card bg-white rounded-2xl shadow-lg p-10 flex flex-col items-center relative w-[26rem] min-h-[480px]">
             <img
               className=" w-50 absolute top-10 z-0 right-15"
-              src="/public/images/bgmojo.webp"
+              src="/images/bgmojo.webp"
               alt=""
             />
             <img
               id="pepsi"
               className="w-full mb-6 mt-16 z-1 rotate-40 mojo transition-all duration-500 ease-in-out"
-              src="/public/images/mojo.webp "
+              src="/images/mojo.webp "
               alt=""
             />
             <h1 className="text-4xl font-bold mb-6">MOJO</h1>
